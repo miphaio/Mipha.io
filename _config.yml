@@ -1,0 +1,22 @@
+title: SudoRPC
+email: wm@mengw.io
+description: SudoRPC remote procedure call framework
+url: https://sudorpc.com
+github_username: SudoRPC
+theme: minima
+repository: SudoRPC/sudorpc.com
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+author:
+  name: WMXPY
+  email: wm@mengw.io
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - .jekyll-cache/
+  - docs/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock

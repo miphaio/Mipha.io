@@ -1,3 +1,5 @@
 # mipha.io
 
-Mipha Offical Website
+Mipha Official Website
+
+Visit [mipha.io](https://mipha.io)
